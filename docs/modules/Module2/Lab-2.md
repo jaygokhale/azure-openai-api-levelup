@@ -7,7 +7,7 @@ nav_order: 2
 
 ## Installation
 
-### Project Initialization
+### Project Initialization!
 
 1. Create a new folder `lab2` and switch to it in the terminal
 
